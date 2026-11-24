@@ -45,7 +45,7 @@ Outside of coding, you'll usually find me playing PUBG Mobile.
 ---
  
 <div align="center">
-### "With great power comes great responsibility."
+"With great power comes great responsibility."
  
 </div>
 ---
