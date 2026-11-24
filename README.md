@@ -1,5 +1,5 @@
 <div align="center">
-# Hi, I'm Jeremy De La Cruz.
+Hi, I'm Jeremy De La Cruz.
  
 ### FULL-STACK WEB DEVELOPER
  
@@ -14,7 +14,7 @@
  
 </div>
 <div align="center">
-<img src="https://i.pinimg.com/originals/48/54/0f/48540ff50a91866767291075b5a52338.jpg" alt="Banner" width="900" />
+<img src="https://i.pinimg.com/originals/48/54/0f/48540ff50a91866767291075b5a52338.jpg" alt="Banner" width="750" />
 </div>
 ---
  
