@@ -14,7 +14,7 @@
  
 </div>
 <div align="center">
-<img src=https://i.pinimg.com/originals/48/54/0f/48540ff50a91866767291075b5a52338.jpg>via GIPHY</a></p>" width="600" />
+<img src=https://i.pinimg.com/originals/48/54/0f/48540ff50a91866767291075b5a52338.jpg>width="600" />
 </div>
 ---
  
