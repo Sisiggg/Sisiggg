@@ -52,7 +52,7 @@ Outside of coding, you'll usually find me playing PUBG Mobile.
  
 ## CONNECT
  
-*Open to web development projects and collaborations.*
+*Open to web development projects.*
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logoColor=white)](https://your-portfolio-link.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
