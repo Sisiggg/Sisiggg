@@ -28,8 +28,7 @@ I'm a 4th-year BSIT student at Guimaras State University, building web systems w
  
 Outside of coding, you'll usually find me playing PUBG Mobile.
  
-![PUBG Mobile](https://img.shields.io/badge/PUBG_Mobile-F2A900?style=for-the-badge&logo=pubg&logoColor=white)
- 
+<img src="https://i.pinimg.com/originals/2d/39/a5/2d39a5dc82c7daa18282c2ba38ec17f9.jpg" alt="PUBG Mobile" width="300" />
 ---
  
 ## TECH STACK
@@ -46,7 +45,7 @@ Outside of coding, you'll usually find me playing PUBG Mobile.
 ---
  
 <div align="center">
-### "Your favorite quote goes here."
+### "With great power comes great responsibility."
  
 </div>
 ---
