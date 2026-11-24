@@ -14,13 +14,13 @@
  
 </div>
 <div align="center">
-<img src=https://i.pinimg.com/originals/48/54/0f/48540ff50a91866767291075b5a52338.jpg>width="600" />
+<img src="https://i.pinimg.com/originals/48/54/0f/48540ff50a91866767291075b5a52338.jpg" alt="Banner" width="900" />
 </div>
 ---
  
 ## ABOUT ME
  
-I'm a 3rd-year BSIT student at Guimaras State University, building web systems with React, Node.js, and SQLite. I enjoy turning real problems into clean, working applications, especially real-time ones powered by Socket.IO.
+I'm a 4th-year BSIT student at Guimaras State University, building web systems with React, Node.js, and SQLite. I enjoy turning real problems into clean, working applications, especially real-time ones powered by Socket.IO.
  
 > Check out my latest **[projects](https://your-portfolio-link.com/projects)**. Want to build something together? **[Let's talk](https://your-portfolio-link.com)**.
  
