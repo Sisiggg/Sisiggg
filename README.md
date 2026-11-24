@@ -14,7 +14,7 @@ Hi, I'm Jeremy De La Cruz.
  
 </div>
 <div align="center">
-<img src="https://i.pinimg.com/originals/48/54/0f/48540ff50a91866767291075b5a52338.jpg" alt="Banner" width="750" />
+<img src="https://i.pinimg.com/originals/48/54/0f/48540ff50a91866767291075b5a52338.jpg" alt="Banner" width="514" height="290" />
 </div>
 ---
  
@@ -26,7 +26,9 @@ I'm a 4th-year BSIT student at Guimaras State University, building web systems w
  
 ## OUTSIDE CODING
  
-Write a line or two about your hobbies here (sports, music, games, travel).
+Outside of coding, you'll usually find me playing PUBG Mobile.
+ 
+![PUBG Mobile](https://img.shields.io/badge/PUBG_Mobile-F2A900?style=for-the-badge&logo=pubg&logoColor=white)
  
 ---
  
