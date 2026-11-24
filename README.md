@@ -14,7 +14,7 @@
  
 </div>
 <div align="center">
-<img src="YOUR-GIF-NAME.gif" alt="<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/pEBS2aHPRsomMAIQvv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/spiderman-the-amazing-spider-man-2-pEBS2aHPRsomMAIQvv">via GIPHY</a></p>" width="600" />
+<img src=https://i.pinimg.com/originals/48/54/0f/48540ff50a91866767291075b5a52338.jpg>via GIPHY</a></p>" width="600" />
 </div>
 ---
  
