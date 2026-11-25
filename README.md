@@ -3,7 +3,7 @@ Hi, I'm Jeremy De La Cruz.
  
 ### FULL-STACK WEB DEVELOPER
  
-### React • Node.js • Socket.IO
+### React • Node.js • WordPress
  
 [![Typing](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=Building+real-time+web+systems;Learning+something+new+every+day)](https://github.com/YOUR-USERNAME)
  
