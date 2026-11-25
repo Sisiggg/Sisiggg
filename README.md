@@ -1,6 +1,39 @@
-<h1 align="center">Hi, I'm Jeremy De La Cruz.</h1> <h3 align="center">FULL-STACK WEB DEVELOPER</h3> <p align="center">React • Node.js • Socket.IO</p> <p align="center"> <a href="https://your-portfolio-link.com">Portfolio</a> • <a href="https://github.com/YOUR-USERNAME">GitHub</a> • <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> • <a href="mailto:your-email@gmail.com">Email</a> </p> <p align="center"> <img src="https://i.pinimg.com/originals/48/54/0f/48540ff50a91866767291075b5a52338.jpg" alt="Banner" width="514" height="290" /> </p>
-<h2 align="center">ABOUT ME</h2> <p align="center"> I'm a 4th-year BSIT student at Guimaras State University, building web systems with React, Node.js, and SQLite.<br> I enjoy turning real problems into clean, working applications, especially real-time ones powered by Socket.IO. </p> <p align="center"> Check out my latest <a href="https://your-portfolio-link.com/projects">projects</a>. Want to build something together? <a href="https://your-portfolio-link.com">Let's talk</a>. </p>
-<h2 align="center">OUTSIDE CODING</h2> <p align="center"> Outside of coding, you'll usually find me playing PUBG Mobile. </p> <p align="center"> <img src="https://i.pinimg.com/originals/2d/39/a5/2d39a5dc82c7daa18282c2ba38ec17f9.jpg" alt="PUBG Mobile" width="120" /> </p>
-<h2 align="center">TECH STACK</h2> <h3 align="center">Frontend</h3> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="48" height="48" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="48" height="48" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="48" height="48" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" width="48" height="48" /> </p> <p align="center">HTML • CSS • JavaScript • React • Tailwind CSS • Vite</p> <h3 align="center">Backend & Database</h3> <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="48" height="48" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.IO" width="48" height="48" />&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48" /> </p> <p align="center">Node.js • Express • Socket.IO • SQLite</p>
-<h3 align="center">"With great power comes great responsibility."</h3>
-<h2 align="center">CONNECT</h2> <p align="center"><i>Open to web development projects and collaborations.</i></p> <p align="center"> <a href="https://your-portfolio-link.com">Portfolio</a> • <a href="https://github.com/YOUR-USERNAME">GitHub</a> • <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> • <a href="mailto:your-email@gmail.com">Email</a> </p> <p align="center"><i>Jeremy De La Cruz · Still learning · Philippines</i></p>
+<div align="center">
+Hi, I'm Jeremy De La Cruz.
+FULL-STACK WEB DEVELOPER
+React • Node.js • Socket.IO
+
+Typing
+
+Portfolio GitHub LinkedIn Email
+
+<img src="https://i.pinimg.com/originals/48/54/0f/48540ff50a91866767291075b5a52338.jpg" alt="Banner" width="514" height="290" /> </div>
+ABOUT ME
+
+I'm a 4th-year BSIT student at Guimaras State University, building web systems with React, Node.js, and SQLite. I enjoy turning real problems into clean, working applications, especially real-time ones powered by Socket.IO.
+
+[!IMPORTANT] Step into my work and explore my latest projects. Ready to build something together? Let's talk.
+
+OUTSIDE CODING
+
+Outside of coding, you'll usually find me playing PUBG Mobile.
+
+<img src="https://i.pinimg.com/originals/2d/39/a5/2d39a5dc82c7daa18282c2ba38ec17f9.jpg" alt="PUBG Mobile" width="120" />
+TECH STACK
+
+Tech Stack
+
+ALSO IN THE ARSENAL
+Socket.IO
+
+<div align="center">
+"With great power comes great responsibility."
+</div>
+CONNECT
+
+Open to web development projects and collaborations.
+
+Portfolio GitHub LinkedIn Email
+
+Keep building, keep learning.
+Jeremy De La Cruz · Still learning · Philippines
