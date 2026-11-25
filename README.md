@@ -2,8 +2,7 @@
 Hi, I'm Jeremy De La Cruz.
 FULL-STACK WEB DEVELOPER
 React • Node.js • Socket.IO
-
-Typing
+<img src="./typing.svg" alt="Typing" width="600" height="50" />
 
 Portfolio GitHub LinkedIn Email
 
