@@ -39,10 +39,11 @@ Outside of coding, you'll usually find me playing PUBG Mobile.
 
 ## TECH STACK
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,sqlite,git,github,vscode,npm,powershell,chrome&theme=dark&perline=15" alt="Tech Stack" height="48" />
-<img src="https://cdn.simpleicons.org/render/white" alt="Render" width="48" height="48" />
-<img src="https://cdn.simpleicons.org/socketdotio/white" alt="Socket.IO" width="48" height="48" />
-<img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge" alt="OpenCode" height="48" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,nodejs,express,sqlite,git,github,vscode,npm,powershell,chrome&theme=dark&perline=8" alt="Tech Stack" />
+</p>
+
+<p><img src="https://cdn.simpleicons.org/render/white" alt="Render" width="48" height="48" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/socketdotio/white" alt="Socket.IO" width="48" height="48" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge" alt="OpenCode" height="48" /></p>
 
 ---
 
